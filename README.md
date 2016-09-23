@@ -1,2 +1,2 @@
-# React Boilerplate App
-Boilerplate code for a React app.
+# Redux Example
+A simple demo for working with Redux.
